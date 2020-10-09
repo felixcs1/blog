@@ -2,8 +2,6 @@
 title = "About"
 +++
 
-My name is Felix a data scientist working in London: d
-
 ```python
 
 for i in x:
